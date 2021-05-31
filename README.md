@@ -32,7 +32,7 @@ sequencialmente, o que quer dizer que a segunda sonda só irá se movimentar ap�
 A saída deverá contar uma linha para cada sonda, na mesma ordem de entrada, indicando sua coordenada final e direção.
 Exemplos de Entrada e Saída:
 
-...
+
 Entrada de Teste:
 
 5 5
@@ -40,7 +40,7 @@ Entrada de Teste:
 LMLMLMLMM
 3 3 E
 MMRMMRMRRM
-...
+
 
 Saída esperada:
 1 3 N
