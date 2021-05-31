@@ -4,7 +4,6 @@ public class LaunchProbe {
 
     public static void main(String[] args){
         Probe probe1 = new Probe();
-        //Instanciando um novo objeto (sonda1 e sonda2) a partir da classe instrucoesSonda.
         Probe probe2 = new Probe();
 
         probe1.groundSize();
